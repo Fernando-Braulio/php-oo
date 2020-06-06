@@ -16,7 +16,7 @@ body{
     background: #382857;
 }
 .container{
-    width: 1440px;
+    /* width: 1440px; */
     margin: 0 auto;
 }
 nav{
@@ -75,8 +75,8 @@ nav ul li:last-child a{
 }
 #hero h1{
     position: relative;
-    font-weight: 700;
-    font-size: 4em;
+    font-weight: 500;
+    font-size: 3em;
 }
 
 #hero p{
@@ -118,7 +118,7 @@ nav ul li:last-child a{
     position: absolute;
     top: 80px;
     right: 100px;
-    width: 700px;
+    /* width: 700px; */
 }
 #sub-content{
     display: flex;
